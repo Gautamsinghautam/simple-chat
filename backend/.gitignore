@@ -1,0 +1,27 @@
+
+# IDE / Editor
+# ----------------------
+.vscode/
+.idea/
+*.swp
+
+# ----------------------
+# Coverage
+# ----------------------
+coverage/
+
+# ----------------------
+# Temporary files
+# ----------------------
+tmp/
+temp/
+dist/
+node_modules/
+
+# ----------------------
+# Optional (if using uploads)
+# ----------------------
+uploads/
+node_modules/
+dist/
+.env
