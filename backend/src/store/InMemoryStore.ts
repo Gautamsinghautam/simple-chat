@@ -1,4 +1,4 @@
-import type { Chat, store, UserId } from "./store/Store.js";
+import type { Chat, store, UserId } from "./Store.js";
 
 let globalChatId = 0;
 
